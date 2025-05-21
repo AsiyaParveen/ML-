@@ -1,7 +1,4 @@
 # ML
-Got it! Here's a Week 2 description in the same style as your Week 1 write-up:
-
----
 
 ### **Internship Week 2 - Developers Hub**
 
